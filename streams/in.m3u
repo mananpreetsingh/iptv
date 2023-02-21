@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="5aab.tv" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Punjabi Channels",5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 tvg-id="GurSikhSabhaTV.ca" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Punjabi Channels",GurSikhSabhaTV
+http://cdn12.henico.net:8080/live/gsctv/index.m3u8
+#EXTINF:-1 tvg-id="gaundapunjab"  tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Punjabi Channels",Gaunda Punjab
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Boogle-Bollywood " tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Punjabi Channels",Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 tvg-id="Canada-One" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Punjabi Channels",Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel-Y" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Punjabi Channels",Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GDNS-Ludhiana" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Punjabi Channels",GDNS Ludhiana
+http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
+#EXTINF:-1 tvg-id="TV-Punjab" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Punjabi Channels",TV Punjab
+http://cdn.samtv.ca/tvpunjab/index.m3u8
+#EXTINF:-1 tvg-id="Subrang-TV-USA" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Punjabi Channels",Subrang TV USA
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1 tvg-id="Steelbird-Music" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Punjabi Channels",Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Sardari-TV" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Punjabi Channels",Sardari TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1 tvg-id="Saint-TV" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Punjabi Channels",Saint TV
+http://159.203.9.134/hls/saint_tv/saint_tv.m3u8
+#EXTINF:-1 tvg-id="Punjab-TV-canada" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Punjabi Channels",Punjab TV Canada
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Prime-Canada-TV" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Punjabi Channels",Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1 tvg-id="PTN-24" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Punjabi Channels",PTN 24
+http://cdn.samtv.ca/ptv24/index.m3u8
+#EXTINF:-1 tvg-id="PTV-Pardesi" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Punjabi Channels",PTV Pardesi
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Janta-TV" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Hindi Channels",Janta TV
+http://live.wmncdn.net/jantatv/live.stream/index.m3u8
+#EXTINF:-1 tvg-id="NDTV-India" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Hindi Channels",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-id="NDTV-24x7" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Hindi Channels",NDTV 24x7
+http://dai.google.com/linear/hls/event/FbL8YN7tSnqysJ6wVjKW7A/master.m3u8
+#EXTINF:-1 tvg-id="ABP-NEWS" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Hindi Channels",ABP NEWS (IN)
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+#EXTINF:-1 tvg-id="ZEE-AFLAM" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Hindi Channels",ZEE AFLAM
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 tvg-id="INDIA-TV" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Hindi Channels",INDIA TV
+https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/digital/master.m3u8
+#EXTINF:-1 tvg-id="ATV" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Hindi Channels",ATV
+https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SANSAD-TV-HD" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Hindi Channels",SANSAD TV HD
+https://hls.media.nic.in/hls/live/rstv/rstv.m3u8
+#EXTINF:-1 tvg-id="BANSAL-NEWS" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Hindi Channels",BANSAL NEWS
+https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="SHUBHSANDESH-TV" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Hindi Channels",SHUBHSANDESH TV
+http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+#EXTINF:-1 tvg-id="IND-24" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Hindi Channels",IND 24
+https://gmkd5nkednxo-hls-live.wmncdn.net/ind24tv/live.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="A1-TV" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Hindi Channels",A1 TV
+http://cdn.smartstream.video/smartstream-us/newsstate/newsstate.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="NEWS-11" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Hindi Channels",NEWS 11
+http://cdn.smartstream.video/smartstream-us/news11/news11/chunklist.m3u8
+#EXTINF:-1 tvg-id="SONY" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Hindi Channels",SONY
+http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
+#EXTINF:-1 tvg-id="COLORS" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Hindi Channels",COLORS
+http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
+#EXTINF:-1 tvg-id="tv_name" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Hindi Channels",SHEMAROO BOLLYWOOD
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="SAMACHAR-24-HD" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Hindi Channels",SAMACHAR 24 HD
+https://imagetv.shemaroo.com/hls5/samachar24/index.m3u8
+#EXTINF:-1 tvg-id="GUBBARE" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Hindi Channels",GUBBARE
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+#EXTINF:-1 tvg-id="EPIC" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Hindi Channels",EPIC
+https://epiconvh.s.llnwi.net/epic/master.m3u8
+#EXTINF:-1 tvg-id="ZEE-BUSINESS" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Hindi Channels",ZEE BUSINESS
+https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_3.m3u8
+#EXTINF:-1 tvg-id="ZEE-NEWS" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Hindi Channels",ZEE NEWS
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
+#EXTINF:-1 tvg-id="DD-NATIONAL" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Hindi Channels",DD NATIONAL
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
+#EXTINF:-1 tvg-id="MUSIC-INDIA" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Hindi Channels",MUSIC INDIA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY-Hindi-HD" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Hindi Channels",DISCOVERY Hindi HD
+https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
+#EXTINF:-1 tvg-id="SHEMAROO-TV" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Movies Channels",SHEMAROO TV
+https://livetv-channels.b-cdn.net/8094/chunklist0.m3u8
+#EXTINF:-1 tvg-id="GOLDMINES" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Movies Channels",GOLDMINES
+https://livetv-channels.b-cdn.net/8046/chunklist0.m3u8
+#EXTINF:-1 tvg-id="MOVIEPLUS" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Movies Channels",MOVIEPLUS
+https://livetv-channels.b-cdn.net/8099/chunklist0.m3u8
+#EXTINF:-1 tvg-id="CINEMA-TV" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Movies Channels",CINEMA TV
+https://livetv-channels.b-cdn.net/8000/chunklist0.m3u8
+#EXTINF:-1 tvg-id="B4U-KADAK" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Movies Channels",B4U KADAK
+https://livetv-channels.b-cdn.net/8091/chunklist0.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY-KIDS" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Movies Channels",DISCOVERY KIDS
+https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
+#EXTINF:-1 tvg-id="tv_name" tvg-logo="https://archive.org/download/iptv-logo/iptv%20logo.png" status="online" group-title="Punjabi Channels",TV_Channel_Name
+tv_channel_url
